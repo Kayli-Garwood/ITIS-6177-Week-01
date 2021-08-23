@@ -1,0 +1,20 @@
+{
+  "name": "itis6177",
+  "version": "1.0.0",
+  "description": "\"# ITIS-6177-Week-01\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayli-Garwood/ITIS-6177-Week-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayli-Garwood/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/Kayli-Garwood/ITIS-6177-Week-01#readme"
+}
