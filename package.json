@@ -4,14 +4,15 @@
   "description": "\"# ITIS-6177-Week-01\"",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node docker.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kayli-Garwood/ITIS-6177-Week-01.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kayli Garwood",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Kayli-Garwood/ITIS-6177-Week-01/issues"
@@ -19,5 +20,6 @@
   "homepage": "https://github.com/Kayli-Garwood/ITIS-6177-Week-01#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
